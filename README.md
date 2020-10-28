@@ -1,6 +1,6 @@
-# Hi stranger, I'm Cairo Lopes 👋
-### I'm from Xique-Xique/BA, a country side of Bahia/BR.
+# Hi there, I'm Cairo Lopes 👋
 
+### I'm from Xique-Xique/BA, a country side of Bahia/BR.
 - 🔭 I’m currently working on my life code
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on with other content creators
